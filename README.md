@@ -1,7 +1,7 @@
 # imdb-search
 using firebase for rtdb and user auth
 
-![Screenshot](1.png)
+<img src="1.png" width="324" height="324">
 ![Screenshot](2.png)
 ![Screenshot](3.png)
 ![Screenshot](4.png)
